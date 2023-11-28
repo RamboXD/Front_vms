@@ -1,6 +1,6 @@
 import React from "react";
 import { Layout } from "@/components";
-import { CreateMaintenanceTable } from "../components/CreateFuelingTable";
+import { CreateMaintenanceTable } from "@/pages/Maintenance/components/CreateMaintenanceTable";
 
 const CreateMaintenance: React.FC = () => {
   return (
